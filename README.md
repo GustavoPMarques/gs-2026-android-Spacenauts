@@ -1,4 +1,4 @@
-# 📱 Nome do Seu Projeto
+# 📱 Spacenauts
 
 > ⚠️ **Nota Importante:** Este aplicativo utiliza **dados mockados** para todas as suas funcionalidades e exibições.
 > 🛠️ **Tecnologias:** Desenvolvido nativamente em **Kotlin** utilizando Jetpack Compose.
